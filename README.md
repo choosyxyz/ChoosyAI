@@ -53,7 +53,7 @@ ChoosyAI is an advanced AI assistant created to make life simpler and more effic
 ## 🔗 Connect with Us
 
 - **Website:** [choosyimperium.blogspot.com](https://choosyimperium.blogspot.com/p/choosyai.html)
-- **Support:** [coming soon]()
+- **Support:** [coming soon...]()
 
 ---
 
