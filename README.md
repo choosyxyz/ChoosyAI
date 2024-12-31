@@ -16,7 +16,7 @@ Welcome to **ChoosyAI**, your friendly AI assistant designed and developed by **
 
 ## 🚀 Installation
 
-1. **Download APK**: [Click here to download the latest version](#).
+1. **Download APK**: [Click here to download the latest version](https://github.com/choosyxyz/ChoosyAI/releases/tag/v1.0.0).
 2. **Install**: Enable installation from unknown sources in your Android settings, then open the APK file.
 3. **Launch**: Open ChoosyAI and start exploring!
 
@@ -52,8 +52,8 @@ ChoosyAI is an advanced AI assistant created to make life simpler and more effic
 
 ## 🔗 Connect with Us
 
-- **Website:** [choosyimperium.blogspot.com](https://choosyimperium.blogspot.com)
-- **Support:** [Contact Us](https://choosyimperium.blogspot.com/p/contact.html)
+- **Website:** [choosyimperium.blogspot.com](https://choosyimperium.blogspot.com/p/choosyai.html)
+- **Support:** [coming soon]()
 
 ---
 
